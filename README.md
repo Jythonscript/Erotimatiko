@@ -1,1 +1,1 @@
-A simple c program that prints an erotimatiko. From there, the opportunities are limitless.
+Try replacing the semicolon in the program with the output.
